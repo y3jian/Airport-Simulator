@@ -6,7 +6,7 @@ The world's busiest airport, Hartsfield–Jackson Atlanta International Airport,
 
 ## Usage
 
-#The simulator begins with an initial set of arrival and takeoff flight numbers. 
+# The simulator begins with an initial set of arrival and takeoff flight numbers. 
 <img width="601" alt="image" src="https://github.com/y3jian/Airport-Simulator/assets/154850931/b3cec697-d48a-4c02-b301-4bb41b8b86b2">
 
 
