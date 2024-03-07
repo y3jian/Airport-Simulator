@@ -23,4 +23,6 @@ Landings are prioritized over takeoffs, reflective of real life routing systems.
 <img width="416" alt="image" src="https://github.com/y3jian/Airport-Simulator/assets/154850931/f4fcfca2-e9d5-486c-91d9-e32e07c8ac83">
 
 
+
+
 Sources: https://www.businessinsider.com/atlanta-airport-facts-busiest-in-world-2019-5
