@@ -11,6 +11,7 @@ The world's busiest airport, Hartsfield–Jackson Atlanta International Airport,
 
 ### When 'START' is pressed, the flights take off at a 2:1 ratio. A countdown simulates buffer time between each operation. A flight animation is played, indicating takeoff/landing.
 <img width="611" alt="image" src="https://github.com/y3jian/Airport-Simulator/assets/154850931/c3f5444b-9f77-48ff-a482-eda6d160bc68">
+
 Landings are prioritized over takeoffs, reflective of real life routing systems.
 
 ### User may input new takeoffs and landings. They will be queued to the existing flights. The program continues to run until the user exits the program.
